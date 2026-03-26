@@ -1,0 +1,8 @@
+package com.jdbc.exception;
+
+public class InternalServiceException extends  RuntimeException {
+
+    public InternalServiceException(String message) {
+
+    }
+}
